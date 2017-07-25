@@ -18,7 +18,7 @@ local ewin = 0
 local hum = 0
 local ean = 0
 
-menu = MenuConfig("GSO", "GamSterOn Vayne")
+menu = MenuConfig(".", ".")
     menu:KeyBinding("combo", "Combo", 32)
     menu:Slider("hum", "Humanizer",175,50,300,5)
     menu:Slider("win", "ExtraWindUp",25,0,75,5)
