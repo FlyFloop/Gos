@@ -5,7 +5,7 @@ if myHero.charName == "Tristana" then
 elseif myHero.charName == "Vayne" then
         vayne = true
 end
-
+--.
 if not vayne and not tristana then
         return
 end
