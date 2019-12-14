@@ -32,7 +32,7 @@ local CHANELLING_SPELLS = {
     ["Katarina"]                    = { "R" },
     ["MasterYi"]                    = { "W" },
     ["Fiddlesticks"]                = { "R" },
-    ["Galio"]                       = { "R" },
+--    ["Galio"]                       = { "R" },
     ["Lucian"]                      = { "R" },
     ["MissFortune"]                 = { "R" },
     ["VelKoz"]                      = { "R" },
@@ -40,8 +40,8 @@ local CHANELLING_SPELLS = {
     ["Shen"]                        = { "R" },
     ["Karthus"]                     = { "R" },
     ["Malzahar"]                    = { "R" },
-    ["Pantheon"]                    = { "R" },
-    ["Warwick"]                     = { "R" },
+  --  ["Pantheon"]                    = { "R" },
+   -- ["Warwick"]                     = { "R" },
     ["Xerath"]                      = { "R" },
 }
 
