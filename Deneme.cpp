@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 main(){
-	printf("github deneme");
+	printf("github güncelleme baþarýyla çalýþýyor");
 }
